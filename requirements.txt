@@ -1,6 +1,6 @@
 qiskit==1.4.1
 qiskit-aer==0.16.3
-qiskit-qulacs
+qiskit-qulacs==0.1.0
 qiskit-ibm-runtime==0.36.1
 numpy>=1.24.0
 pandas>=2.0.0
@@ -10,4 +10,4 @@ pylatexenc
 qbraid==0.9.3
 ibm-cloud-sdk-core==3.22.1
 ibm-platform-services==0.59.1
-mqt.ddsim
+mqt.ddsim==1.24.0
