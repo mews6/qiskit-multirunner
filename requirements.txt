@@ -11,3 +11,5 @@ qbraid==0.9.3
 ibm-cloud-sdk-core==3.22.1
 ibm-platform-services==0.59.1
 mqt.ddsim==1.24.0
+qiskit-algorithms == 0.3.1
+networkx

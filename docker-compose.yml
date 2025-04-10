@@ -7,7 +7,7 @@ services:
     ports:
       - "4321:4321"
     volumes:
-      - .:/home/jovyan/work
+      - .:/home/multirunner/work
     environment:
       - JUPYTER_ENABLE_LAB=yes
       - JUPYTER_PORT=4321
